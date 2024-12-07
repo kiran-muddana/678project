@@ -1,0 +1,18 @@
+# First uninstall existing packages to avoid conflicts
+# pip uninstall -y langchain langchain-core langchain-openai langchain-community langchain-experimental
+
+faiss-cpu==1.8.0.post1
+jupyter==1.0.0
+langchain==0.1.12
+langchain-community==0.0.38
+langchain-core==0.1.53
+langchain-experimental==0.0.52
+langchain-openai==0.0.8
+notebook==7.0.6
+openai==1.14.1
+pandas==2.2.2
+pymysql==1.1.0
+python-dotenv==1.0.1
+sqlalchemy==2.0.27
+streamlit==1.37.0
+typing-extensions==4.12.2
